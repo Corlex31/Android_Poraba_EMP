@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\Poraba\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Users\\Robert\\AndroidStudioProjects\\Poraba\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\Poraba\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_consumpt_calc2_drawer.xml",
+        "source": "C:\\Users\\Robert\\AndroidStudioProjects\\Poraba\\app\\src\\main\\res\\menu\\activity_consumpt_calc2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\Poraba\\app\\build\\intermediates\\res\\merged\\debug\\menu\\consumpt_calc.xml",
+        "source": "C:\\Users\\Robert\\AndroidStudioProjects\\Poraba\\app\\src\\main\\res\\menu\\consumpt_calc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robert\\AndroidStudioProjects\\Poraba\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Robert\\AndroidStudioProjects\\Poraba\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
